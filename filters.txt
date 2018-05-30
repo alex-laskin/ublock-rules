@@ -4,5 +4,13 @@ aliexpress.com##.ui-newuser-layer-dialog
 
 avito.ru##.apps-banner
 avito.ru##.banner-apps
+avito.ru##.common-banner
+avito.ru##.profile-item-cart-wrapper
+avito.ru##.profile-item-promo
+
+feedly.com##.headerInfo-links.right
+feedly.com##.left.headerInfo-links > .icon-fx-evernote-ios-md-black
+feedly.com##.left.headerInfo-links > .icon-fx-link-ios-md-black
+feedly.com##.pro
 
 instagram.com##:xpath(//article//div[count(*)=0])
