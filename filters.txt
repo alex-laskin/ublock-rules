@@ -1,0 +1,8 @@
+! 5/30/2018, 9:07:46 AM https://ru.aliexpress.com/item/AFS-JEEP-2016-Brand-New-Mens-Military-Cargo-Pants-Multi-pockets-Baggy-Men-Pants-Casual-Trousers/32600939154.html
+ru.aliexpress.com##.ui-newuser-layer-dialog
+ru.aliexpress.com##.ui-mask
+ru.aliexpress.com##.top-banner-container
+
+! 5/30/2018, 12:09:10 PM https://www.avito.ru/profile
+www.avito.ru##.apps-banner
+www.avito.ru##.banner-apps
