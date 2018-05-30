@@ -4,3 +4,5 @@ aliexpress.com##.ui-newuser-layer-dialog
 
 avito.ru##.apps-banner
 avito.ru##.banner-apps
+
+instagram.com##:xpath(//article//div[count(*)=0])
