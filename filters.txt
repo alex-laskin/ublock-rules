@@ -1,6 +1,13 @@
+! Title: Laskin's filters
+! Expires: 1 hour
+
+@@*$domain=pochtoy.com
+@@*$domain=gosuslugi.ru
+
 aliexpress.com##.top-banner-container
 aliexpress.com##.ui-mask
 aliexpress.com##.ui-newuser-layer-dialog
+@@aliexpress.com$popup
 
 avito.ru##.apps-banner
 avito.ru##.banner-apps
@@ -14,3 +21,5 @@ feedly.com##.left.headerInfo-links > .icon-fx-link-ios-md-black
 feedly.com##.pro
 
 instagram.com##:xpath(//article//div[count(*)=0])
+
+@@pochtabank.ru
